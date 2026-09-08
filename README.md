@@ -1,2 +1,2 @@
-# Alpha
+# Agile
 First repo
