@@ -1,1 +1,7 @@
 This is the first file in the git
+
+Agile Methodology is an iterative and incremental approach to software development that focuses on delivering valuable working software frequently. It emphasizes customer collaboration, continuous feedback, team collaboration, and responding to changing requirements.
+
+Delivers working software in small, frequent increments.
+Encourages collaboration between customers, stakeholders, and development teams.
+Allows teams to adapt to changing requirements throughout development.
